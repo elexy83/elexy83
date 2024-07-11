@@ -1,4 +1,4 @@
-<h2> Hi, I’m Evan Colomb </h2>
+<h2> Hi, I’m Evan Colomb 👋</h2>
 
 <h3> About me: </h3>
 
