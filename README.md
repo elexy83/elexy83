@@ -4,7 +4,7 @@
 
 - I'm a junior devlopper working on his first video game (using C++)
 
-I'm currently learning:
+<h3> I'm currently learning:</h3>
 
 - C
 - C++
@@ -12,7 +12,7 @@ I'm currently learning:
 - HTML 5
 - CSS 3 
 
-And work on:
+<h3> And work on:</h3>
 
 - linux
 - windows 10/11
