@@ -2,7 +2,7 @@
 
 <h3> About me: </h3>
 
-- I'm a junior devlopper working on his first video game (using C++)
+- I'm a junior developper working on his first video game (using C++)
 
 <h3> I'm currently learning:</h3>
 
