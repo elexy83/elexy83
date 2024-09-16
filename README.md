@@ -10,7 +10,10 @@
 - C++
 - Python
 - HTML 5
-- CSS 3 
+- CSS 3
+- Java
+- Javascipt
+- PHP
 
 <h3> And work on:</h3>
 
