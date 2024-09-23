@@ -22,4 +22,4 @@
 
 <h3> how to contact me :</h3>
 
-- email : elexy83@gmail.com
+- email : evan.colomb83@gmail.com
