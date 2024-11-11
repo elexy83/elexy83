@@ -20,6 +20,6 @@
 - linux
 - windows 10/11
 
-<h3> how to contact me :</h3>
+<h3> How to contact me :</h3>
 
 - email : evan.colomb83@gmail.com
