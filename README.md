@@ -12,7 +12,7 @@
 - HTML 5
 - CSS 3
 - Java
-- Javascipt
+- Javascript
 - PHP
 
 <h3> And work on:</h3>
